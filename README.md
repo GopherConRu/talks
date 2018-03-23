@@ -1,4 +1,4 @@
-# talks
+# GopherCon Russia talks
 
 ## 2018
 
