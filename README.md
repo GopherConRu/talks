@@ -29,10 +29,13 @@ Alexey Naidyonov. Including a JS interpreter into Go product.
   - [PDF](TODO)
 
 Марко Кевац. Знакомство с гео-библиотекой s2 от Google и примеры ее использования в Badoo.
-  - [Slides & code](https://github.com/mkevac/gophercon-russia-2018)
+Marko Kevac. Introduction to s2 geo library with usage examples at Badoo.
+  - [Repository](https://github.com/mkevac/gophercon-russia-2018)
+  - [PDF](TODO)
 
 Олег Шевелев. Gometalinter наше всё.
-  - [Slides](https://vk.com/doc4388072_461711848)
+Oleg Shevelev. Gometalinter is our everything.
+  - [PDF](TODO)
 
 Дмитрий Вьюков. Фаззинг: новое юнит тестирование.
   - [Slides](https://go-talks.appspot.com/github.com/dvyukov/go-fuzz/slides/fuzzing.slide#1)
