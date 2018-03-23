@@ -5,15 +5,15 @@
 ### Hall 1
 
 Brad Fitzpatrick. Go: looking back and looking forward.
-  - [Online](https://docs.google.com/presentation/d/1DmyTABhGLvN0m2uHktvkP_uXop6-Xy5HPNovjDKJ83g/edit)
+  - [View Online](https://docs.google.com/presentation/d/1DmyTABhGLvN0m2uHktvkP_uXop6-Xy5HPNovjDKJ83g/edit)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Go%20-%20looking%20back%20and%20looking%20forward%20-%20Brad%20Fitzpatrick.pdf)
 
 Brian Ketelsen. Repeatable Builds with vgo.
-  - [Online](https://talks.bjk.fyi/bketelsen/gcru18-vgo?WT.mc_id=techsummitdc-twitter-brketels/)
+  - [View Online](https://talks.bjk.fyi/bketelsen/gcru18-vgo?WT.mc_id=techsummitdc-twitter-brketels/)
 
 Вадим Марковцев. Как измерить настроение кода в Git репозитории.<br/>
-Vadim Markovtsev. How to measure the code's mood in a git repository.
-  - [Online](http://vmarkovtsev.github.io/gophercon-2018-moscow/#cover)
+Vadim Markovtsev. Measuring code sentiment in a Git repository.
+  - [View Online](http://vmarkovtsev.github.io/gophercon-2018-moscow/#cover)
 
 Елена Граховац. Автоматизируем построение карты сервисов.<br/>
 Elena Grahovac. Automating architecture diagrams.
@@ -27,7 +27,7 @@ Marko Kevac. Introduction to s2 geo library with usage examples at Badoo.
 
 Дмитрий Вьюков. Фаззинг: новое юнит тестирование.<br/>
 Dmitry Vyukov. Fuzzing: the new unit testing.
-  - [Online](https://talks.godoc.org/github.com/dvyukov/go-fuzz/slides/fuzzing.slide)
+  - [View Online](https://talks.godoc.org/github.com/dvyukov/go-fuzz/slides/fuzzing.slide)
   - [Repository](https://github.com/dvyukov/go-fuzz/tree/master/slides)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Fuzzing%20-%20the%20new%20unit%20testing%20-%20Dmitry%20Vyukov.pdf)
 
@@ -35,12 +35,12 @@ Jessie Frazelle. 101 Ways to Compile a Go Binary.
   - TODO
 
 Ashley McNamara + Brian Ketelsen. Go best practices.
-  - [Online](https://talks.bjk.fyi/bketelsen/gcru18-best/)
+  - [View Online](https://talks.bjk.fyi/bketelsen/gcru18-best/)
 
 Станислав Афанасьев. Пишем свою криптовалюту на Go.<br/>
 Stas Afanasiev. Write your own cryptocurrency in Go.
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Write%20your%20own%20cryptocurrency%20in%20Go%20-%20Stas%20Afanasiev.pdf)
-  - [Code](https://github.com/superstas/gcoin)
+  - [Code Repository](https://github.com/superstas/gcoin)
 
 Алексей Акулович. Работа с сетью в Go.<br/>
 Aleksey Akulovich. Networking in Go.
@@ -48,7 +48,7 @@ Aleksey Akulovich. Networking in Go.
 
 Андрей Смирнов. Создание эффективной клиентской библиотеки statsd.<br/>
 Andrey Smirnov. Creating the effective client library statsd.
-  - [Online](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide)
+  - [View Online](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide)
   - [Repository](https://github.com/smira/gopherconru2018)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Creating%20the%20effective%20client%20library%20statsd%20-%20Andrey%20Smirnov.pdf)
 
@@ -57,7 +57,7 @@ Andrey Smirnov. Creating the effective client library statsd.
 
 Елеськин Григорий. Go: плюсы и минусы на фоне языка Pony.<br/>
 Grigorij Eleskin. The pros and cons of Go in comparison with Pony language.
-  - [Online](https://talks.godoc.org/github.com/Nyarum/gopherconru-2018-talk/gophercon.slide)
+  - [View Online](https://talks.godoc.org/github.com/Nyarum/gopherconru-2018-talk/gophercon.slide)
   - [Repository](https://github.com/Nyarum/gopherconru-2018-talk)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/The%20pros%20and%20cons%20of%20Go%20in%20comparison%20with%20Pony%20language%20-%20Grigorij%20Eleskin.pdf)
 
@@ -76,14 +76,15 @@ Maxim Ryndin. Product development with Go: a history of one project.
 
 Сергей Камардин. Restarting Go applications gracefully.<br/>
 Sergey Kamardin. Restarting Go applications gracefully.
-  - [Online](https://talks.godoc.org/github.com/gobwas/gracefultalk/graceful.slide)
+  - [View Online](https://talks.godoc.org/github.com/gobwas/gracefultalk/graceful.slide)
   - [Repository](https://github.com/gobwas/gracefultalk)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Restarting%20Go%20applications%20gracefully%20-%20Sergey%20Kamardin.pdf)
+  - [Code Repository](https://github.com/gobwas/graceful)
 
 Андрей Дроздов. Строим поисковую экосистему на Go.<br/>
 Andrey Drozdov. Building search ecosystem with Go.
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Building%20search%20ecosystem%20with%20Go%20-%20Andrey%20Drozdov.pdf)
-  - [Code](https://github.com/Sulverus/gophercon)
+  - [Code Repository](https://github.com/Sulverus/gophercon)
 
 Виталий Левченко. Вы пишете тесты неправильно.<br/>
 Vitaliy Levchenko. You write tests wrong.
@@ -91,7 +92,7 @@ Vitaliy Levchenko. You write tests wrong.
 
 Андрей Минкин. Бекенд на Go+gRPC в продакшне для мобильных приложений.<br/>
 Andrew Minkin. Go+gRPC backend for mobile application in production.
-  - [Online](https://www.slideshare.net/maddevs/grpc-91167163)
+  - [View Online](https://www.slideshare.net/maddevs/grpc-91167163)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Go%20gRPC%20backend%20for%20mobile%20application%20in%20production%20-%20Andrew%20Minkin.pdf)
 
 Константин Черкасов. OpenTracing не только для распределенной трассировки.<br/>
