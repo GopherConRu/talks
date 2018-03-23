@@ -57,13 +57,17 @@ Sergey Kamardin. Restarting Go applications gracefully.
   - [Repository](https://github.com/gobwas/gracefultalk)
   - [PDF](TODO)
 
-Brian Ketelsen. Go best practices.
-  - [Slides](https://talks.bjk.fyi/bketelsen/gcru18-best#/)
+Ashley McNamara + Brian Ketelsen. Go best practices.
+  - [Online](https://talks.bjk.fyi/bketelsen/gcru18-best/)
 
 Андрей Дроздов. Строим поисковую экосистему на Go.
+Andrey Drozdov. Building search ecosystem with Go.
+  - TODO
   - [Code](https://github.com/Sulverus/gophercon)
 
 Станислав Афанасьев. Пишем свою криптовалюту на Go.
+Stas Afanasiev. Write your own cryptocurrency in Go.
+  - [PDF](TODO)
   - [Code](https://github.com/superstas/gcoin)
 
 Виталий Левченко. Вы пишете тесты неправильно.
