@@ -71,9 +71,12 @@ Stas Afanasiev. Write your own cryptocurrency in Go.
   - [Code](https://github.com/superstas/gcoin)
 
 Виталий Левченко. Вы пишете тесты неправильно.
+Vitaliy Levchenko. You write tests wrong.
+  - [PDF](TODO)
 
 Алексей Акулович. Работа с сетью в Go.
-  - [Slides](https://ater.me/conf/gophercon.pdf)
+Aleksey Akulovich. Networking in Go.
+  - [PDF](TODO)
 
 Андрей Минкин. Бекенд на Go+grpc в продакшне для мобильных приложений.
   - [Slides](https://www.slideshare.net/maddevs/grpc-91167163)
