@@ -16,6 +16,7 @@ Vadim Markovtsev. How to measure the code's mood in a git repository.
 Елеськин Григорий. Go: плюсы и минусы на фоне языка Pony.
 Grigorij Eleskin. The pros and cons of Go in comparison with Pony language.
   - [Online](https://talks.godoc.org/github.com/Nyarum/gopherconru-2018-talk/gophercon.slide)
+  - [Repository](https://github.com/Nyarum/gopherconru-2018-talk)
   - [PDF](TODO)
 
 Елена Граховац. Автоматизируем построение карты сервисов.
@@ -38,15 +39,23 @@ Oleg Shevelev. Gometalinter is our everything.
   - [PDF](TODO)
 
 Дмитрий Вьюков. Фаззинг: новое юнит тестирование.
-  - [Slides](https://go-talks.appspot.com/github.com/dvyukov/go-fuzz/slides/fuzzing.slide#1)
+Dmitry Vyukov. Fuzzing: the new unit testing.
+  - [Online](https://talks.godoc.org/github.com/dvyukov/go-fuzz/slides/fuzzing.slide)
+  - [Repository](https://github.com/dvyukov/go-fuzz/tree/master/slides)
+  - [PDF](TODO)
 
 Максим Рындин. Продуктовая разработка на Go: история одного проекта.
+Maxim Ryndin. Product development with Go: a history of one project.
+  - TODO
 
 Jessie Frazelle. 101 Ways to Compile a Go Binary.
+  - TODO
 
 Сергей Камардин. Restarting Go applications gracefully.
-  - [Slides](https://github.com/gobwas/gracefultalk)
-  - [Code](https://github.com/gobwas/graceful)
+Sergey Kamardin. Restarting Go applications gracefully.
+  - [Online](https://talks.godoc.org/github.com/gobwas/gracefultalk/graceful.slide)
+  - [Repository](https://github.com/gobwas/gracefultalk)
+  - [PDF](TODO)
 
 Brian Ketelsen. Go best practices.
   - [Slides](https://talks.bjk.fyi/bketelsen/gcru18-best#/)
