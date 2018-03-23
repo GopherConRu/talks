@@ -1,5 +1,7 @@
 # GopherCon Russia talks
 
+**Note:** cloning this repository requires [Git LFS](https://git-lfs.github.com).
+
 ## 2018
 
 ### Hall 1
