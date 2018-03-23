@@ -78,8 +78,8 @@ Vitaliy Levchenko. You write tests wrong.
 Aleksey Akulovich. Networking in Go.
   - [PDF](TODO)
 
-Андрей Минкин. Бекенд на Go+grpc в продакшне для мобильных приложений.
-Andrew Minkin. Go + grpc backend for mobile application in production.
+Андрей Минкин. Бекенд на Go+gRPC в продакшне для мобильных приложений.
+Andrew Minkin. Go+gRPC backend for mobile application in production.
   - [Online](https://www.slideshare.net/maddevs/grpc-91167163)
   - [PDF](TODO)
 
