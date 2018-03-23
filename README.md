@@ -19,10 +19,14 @@ Grigorij Eleskin. The pros and cons of Go in comparison with Pony language.
   - [PDF](TODO)
 
 Елена Граховац. Автоматизируем построение карты сервисов.
-  - [Slides](https://github.com/rumyantseva/gophercon-ru-2018)
+Elena Grahovac. Automating architecture diagrams.
+  - [Repository](https://github.com/rumyantseva/gophercon-ru-2018)
+  - [PDF](TODO)
 
 Алексей Найденов. Встраивание в Go интерпретатора JS для реализации бизнес-логики.
-  - [Slides](https://github.com/growler/gophercon-russia-2018-talk)
+Alexey Naidyonov. Including a JS interpreter into Go product.
+  - [Repository](https://github.com/growler/gophercon-russia-2018-talk)
+  - [PDF](TODO)
 
 Марко Кевац. Знакомство с гео-библиотекой s2 от Google и примеры ее использования в Badoo.
   - [Slides & code](https://github.com/mkevac/gophercon-russia-2018)
