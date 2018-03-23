@@ -3,17 +3,20 @@
 ## 2018
 
 Brad Fitzpatrick. Go: looking back and looking forward.
-  - [Google Docs](https://docs.google.com/presentation/d/1DmyTABhGLvN0m2uHktvkP_uXop6-Xy5HPNovjDKJ83g/edit)
+  - [Online](https://docs.google.com/presentation/d/1DmyTABhGLvN0m2uHktvkP_uXop6-Xy5HPNovjDKJ83g/edit)
   - [PDF](TODO)
 
 Brian Ketelsen. Repeatable Builds with vgo.
-  - [Slides](https://talks.bjk.fyi/bketelsen/gcru18-vgo?WT.mc_id=techsummitdc-twitter-brketels#/)
+  - [Online](https://talks.bjk.fyi/bketelsen/gcru18-vgo?WT.mc_id=techsummitdc-twitter-brketels/)
 
 Вадим Марковцев. Как измерить настроение кода в Git репозитории.
-  - [Slides](http://vmarkovtsev.github.io/gophercon-2018-moscow/#)
+Vadim Markovtsev. How to measure the code's mood in a git repository.
+  - [Online](http://vmarkovtsev.github.io/gophercon-2018-moscow/#cover)
 
 Елеськин Григорий. Go: плюсы и минусы на фоне языка Pony.
-  - [Slides](https://go-talks.appspot.com/github.com/Nyarum/gopherconru-2018-talk/gophercon.slide#1)
+Grigorij Eleskin. The pros and cons of Go in comparison with Pony language.
+  - [Online](https://talks.godoc.org/github.com/Nyarum/gopherconru-2018-talk/gophercon.slide)
+  - [PDF](TODO)
 
 Елена Граховац. Автоматизируем построение карты сервисов.
   - [Slides](https://github.com/rumyantseva/gophercon-ru-2018)
