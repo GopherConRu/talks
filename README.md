@@ -79,11 +79,18 @@ Aleksey Akulovich. Networking in Go.
   - [PDF](TODO)
 
 Андрей Минкин. Бекенд на Go+grpc в продакшне для мобильных приложений.
-  - [Slides](https://www.slideshare.net/maddevs/grpc-91167163)
+Andrew Minkin. Go + grpc backend for mobile application in production.
+  - [Online](https://www.slideshare.net/maddevs/grpc-91167163)
+  - [PDF](TODO)
 
 Андрей Смирнов. Создание эффективной клиентской библиотеки statsd.
-  - [Slides](https://github.com/smira/gopherconru2018)
+Andrey Smirnov. Creating the effective client library statsd.
+  - [Online](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide)
+  - [Repository](https://github.com/smira/gopherconru2018)
+  - [PDF](TODO)
 
 Константин Черкасов. OpenTracing не только для распределенной трассировки.
+Konstantin Cherkasoff. OpenTracing not only for distributed tracing.
+  - [PDF](TODO)
 
-[Gett & Juno Golang presentations](https://github.com/gtforge/gopher)
+[Gett & Juno presentations](https://github.com/gtforge/gopher)
