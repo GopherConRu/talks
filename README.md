@@ -32,7 +32,7 @@ Dmitry Vyukov. Fuzzing: the new unit testing.
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Fuzzing%20-%20the%20new%20unit%20testing%20-%20Dmitry%20Vyukov.pdf)
 
 Jessie Frazelle. 101 Ways to Compile a Go Binary.
-  - TODO
+  - [View Online](https://docs.google.com/presentation/d/1GPb_fGBvKBmsErmusfPGrt6px__Elj6JPwP_cLskjXk/edit)
 
 Ashley McNamara + Brian Ketelsen. Go best practices.
   - [View Online](https://talks.bjk.fyi/bketelsen/gcru18-best/)
