@@ -7,6 +7,7 @@
 ### Hall 1
 
 Brad Fitzpatrick. Go: looking back and looking forward.
+  - [Video (English)](https://www.youtube.com/watch?v=ZCB-g2B4Y5A)
   - [View Online](https://docs.google.com/presentation/d/1DmyTABhGLvN0m2uHktvkP_uXop6-Xy5HPNovjDKJ83g/edit)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Go%20-%20looking%20back%20and%20looking%20forward%20-%20Brad%20Fitzpatrick.pdf)
 
@@ -19,16 +20,19 @@ Vadim Markovtsev. Measuring code sentiment in a Git repository.
 
 Елена Граховац. Автоматизируем построение карты сервисов.<br/>
 Elena Grahovac. Automating architecture diagrams.
+  - [Video (Russian)](https://www.youtube.com/watch?v=HK2dU26Fsto)
   - [Repository](https://github.com/rumyantseva/gophercon-ru-2018)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Automating%20architecture%20diagrams%20-%20Elena%20Grahovac.pdf)
 
 Марко Кевац. Знакомство с гео-библиотекой s2 от Google и примеры ее использования в Badoo.<br/>
 Marko Kevac. Introduction to s2 geo library with usage examples at Badoo.
+  - [Video (Russian)](https://www.youtube.com/watch?v=LHQN8lWPLw8)
   - [Repository](https://github.com/mkevac/gophercon-russia-2018)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Introduction%20to%20s2%20geo%20library%20with%20usage%20examples%20at%20Badoo%20-%20Marko%20Kevac.pdf)
 
 Дмитрий Вьюков. Фаззинг: новое юнит тестирование.<br/>
 Dmitry Vyukov. Fuzzing: the new unit testing.
+  - [Video (Russian)](https://www.youtube.com/watch?v=EJVp13f_aIs)
   - [View Online](https://talks.godoc.org/github.com/dvyukov/go-fuzz/slides/fuzzing.slide)
   - [Repository](https://github.com/dvyukov/go-fuzz/tree/master/slides)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Fuzzing%20-%20the%20new%20unit%20testing%20-%20Dmitry%20Vyukov.pdf)
@@ -46,10 +50,12 @@ Stas Afanasiev. Write your own cryptocurrency in Go.
 
 Алексей Акулович. Работа с сетью в Go.<br/>
 Aleksey Akulovich. Networking in Go.
+  - [Video (Russian)](https://www.youtube.com/watch?v=p1ILhiq5Clw)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Networking%20in%20Go%20-%20Aleksey%20Akulovich.pdf)
 
 Андрей Смирнов. Создание эффективной клиентской библиотеки statsd.<br/>
 Andrey Smirnov. Creating the effective client library statsd.
+  - [Video (Russian)](https://www.youtube.com/watch?v=OBHK6YjIS1U)
   - [View Online](https://talks.godoc.org/github.com/smira/gopherconru2018/go-statsd.slide)
   - [Repository](https://github.com/smira/gopherconru2018)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Creating%20the%20effective%20client%20library%20statsd%20-%20Andrey%20Smirnov.pdf)
@@ -70,10 +76,12 @@ Alexey Naidyonov. Including a JS interpreter into Go product.
 
 Олег Шевелев. Gometalinter наше всё.<br/>
 Oleg Shevelev. Gometalinter is our everything.
+  - [Video (Russian)](https://www.youtube.com/watch?v=EoQZ1lcZWGM)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Gometalinter%20is%20our%20everything%20-%20Oleg%20Shevelev.pdf)
 
 Максим Рындин. Продуктовая разработка на Go: история одного проекта.<br/>
 Maxim Ryndin. Product development with Go: a history of one project.
+  - [Video (Russian)](https://www.youtube.com/watch?v=ppnnuDotxZM)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Product%20development%20with%20Go%20-%20a%20history%20of%20one%20project%20-%20Maxim%20Ryndin.pdf)
 
 Сергей Камардин. Restarting Go applications gracefully.<br/>
@@ -85,6 +93,7 @@ Sergey Kamardin. Restarting Go applications gracefully.
 
 Андрей Дроздов. Строим поисковую экосистему на Go.<br/>
 Andrey Drozdov. Building search ecosystem with Go.
+  - [Video (Russian)](https://www.youtube.com/watch?v=gHrcCcZLm-c)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Building%20search%20ecosystem%20with%20Go%20-%20Andrey%20Drozdov.pdf)
   - [Code Repository](https://github.com/Sulverus/gophercon)
 
