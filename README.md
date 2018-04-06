@@ -110,4 +110,4 @@ Andrew Minkin. Go+gRPC backend for mobile application in production.
 Konstantin Cherkasoff. OpenTracing not only for distributed tracing.
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/OpenTracing%20not%20only%20for%20distributed%20tracing%20-%20Konstantin%20Cherkasoff.pdf)
 
-[Gett & Juno presentations](https://github.com/gtforge/gopher)
+[Gett & Juno presentations](https://github.com/gettaxi/go-talks)
