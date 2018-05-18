@@ -49,7 +49,7 @@ Ashley McNamara + Brian Ketelsen. Go best practices.
 
 Станислав Афанасьев. Пишем свою криптовалюту на Go.<br/>
 Stas Afanasiev. Write your own cryptocurrency in Go.
-  - Video (Russian) TODO
+  - [Video (Russian)](https://www.youtube.com/watch?v=72y2vFPpqHg)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2018/Write%20your%20own%20cryptocurrency%20in%20Go%20-%20Stas%20Afanasiev.pdf)
   - [Code Repository](https://github.com/superstas/gcoin)
 
