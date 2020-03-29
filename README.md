@@ -2,6 +2,24 @@
 
 **Note:** cloning this repository requires [Git LFS](https://git-lfs.github.com).
 
+## 2020 Online
+
+Dave Cheney. Go's Hidden Pragmas.
+
+Natalie Pistunovich. Infrastructure for Machine Learning Applications.
+
+Yoni Davidson. Wrapping C++ Arrow - why and how?
+
+Артём Картасов. Невидимые ошибки Go-разработчика.
+
+Ole Bulbuk. Interviewing Go Developers and Getting a Good Go Job.
+
+Алексей Найдёнов. TLA+/TLC: практичный инструмент формальной верификаций алгоритмов.
+
+Андрей Бородин. Жмём и храним байтики.
+
+Mark Bates. Designing Pluggable and Idiomatic Go Applications.
+
 ## 2018
 
 ### Hall 1
