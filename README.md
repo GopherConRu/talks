@@ -17,6 +17,8 @@ Wrapping C++ Arrow - why and how? - Yoni Davidson
 
 Невидимые ошибки Go-разработчика - Артём Картасов
   - [View Online](https://docs.google.com/presentation/d/1aMH3gqRnvzLFrDXhNs3ttJZH3tKDpFhp0NOvdwIlbQA/edit)
+  - [View Online (PDF)](https://speakerdeck.com/gopherconrussia/nievidimyie-oshibki-go-razrabotchika-artiom-kartasov)
+  - [PDF](https://github.com/GopherConRu/talks/blob/master/2020/Invisible%20errors%20-%20Artyom%20Kartasov.pdf)
 
 Interviewing Go Developers and Getting a Good Go Job - Ole Bulbuk
   - [View Online](https://flowdev.github.io/static/present/2020/go-job/present.html)
