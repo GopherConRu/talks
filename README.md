@@ -12,13 +12,16 @@ Natalie Pistunovich. Infrastructure for Machine Learning Applications.
 
 Yoni Davidson. Wrapping C++ Arrow - why and how?
   - [View Online](https://speakerdeck.com/gopherconrussia/wrapping-c-plus-plus-arrow-why-and-how-yoni-davidson)
-  - [PDF](TODO)
+  - [PDF](https://github.com/GopherConRu/talks/blob/master/2020/Wrapping%20C%2B%2B%20Arrow%20Why%20and%20How%20-%20Yoni%20Davidson.pdf)
 
 Артём Картасов. Невидимые ошибки Go-разработчика.
 
 Ole Bulbuk. Interviewing Go Developers and Getting a Good Go Job.
 
 Алексей Найдёнов. TLA+/TLC: практичный инструмент формальной верификаций алгоритмов.
+  - [View Online](TODO)
+  - [PDF](TODO)
+  - [Repository](https://github.com/growler/gophercon-russia-2020-talk)
 
 Андрей Бородин. Жмём и храним байтики.
 
