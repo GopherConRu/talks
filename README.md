@@ -18,7 +18,9 @@ Yoni Davidson. Wrapping C++ Arrow - why and how?
 
 Ole Bulbuk. Interviewing Go Developers and Getting a Good Go Job.
   - [View Online](https://flowdev.github.io/static/present/2020/go-job/present.html)
+  - [View Online (PDF)](https://speakerdeck.com/gopherconrussia/how-to-land-a-good-go-job-ole-bulbuk)
   - [Repository](https://github.com/flowdev/present-go/tree/master/2020/go-job)
+  - [PDF](https://github.com/GopherConRu/talks/blob/master/2020/How%20to%20Land%20a%20Good%20Go%20Job%20-%20Ole%20Bulbuk.pdf)
 
 Алексей Найдёнов. TLA+/TLC: практичный инструмент формальной верификаций алгоритмов.
   - [View Online](https://speakerdeck.com/gopherconrussia/tla-plus-tools-praktichnyi-instrumient-formal-noi-vierifikatsii-alghoritmov-alieksiei-naidionov)
