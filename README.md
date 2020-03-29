@@ -8,26 +8,27 @@ Go's Hidden #pragmas - Dave Cheney
   - [View Online](https://speakerdeck.com/gopherconrussia/gos-hidden-number-pragmas-dave-cheney)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2020/Go's%20Hidden%20Pragmas%20-%20Dave%20Cheney.pdf)
 
-Natalie Pistunovich. Infrastructure for Machine Learning Applications.
+Infrastructure for Machine Learning Applications - Natalie Pistunovich
 
-Yoni Davidson. Wrapping C++ Arrow - why and how?
+Wrapping C++ Arrow - why and how? - Yoni Davidson
   - [View Online](https://speakerdeck.com/gopherconrussia/wrapping-c-plus-plus-arrow-why-and-how-yoni-davidson)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2020/Wrapping%20C%2B%2B%20Arrow%20Why%20and%20How%20-%20Yoni%20Davidson.pdf)
 
-Артём Картасов. Невидимые ошибки Go-разработчика.
+Невидимые ошибки Go-разработчика - Артём Картасов
+  - [View Online](https://docs.google.com/presentation/d/1aMH3gqRnvzLFrDXhNs3ttJZH3tKDpFhp0NOvdwIlbQA/edit)
 
-Ole Bulbuk. Interviewing Go Developers and Getting a Good Go Job.
+Interviewing Go Developers and Getting a Good Go Job - Ole Bulbuk
   - [View Online](https://flowdev.github.io/static/present/2020/go-job/present.html)
   - [View Online (PDF)](https://speakerdeck.com/gopherconrussia/how-to-land-a-good-go-job-ole-bulbuk)
   - [Repository](https://github.com/flowdev/present-go/tree/master/2020/go-job)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2020/How%20to%20Land%20a%20Good%20Go%20Job%20-%20Ole%20Bulbuk.pdf)
 
-Алексей Найдёнов. TLA+/TLC: практичный инструмент формальной верификаций алгоритмов.
+TLA+/TLC: практичный инструмент формальной верификаций алгоритмов - Алексей Найдёнов
   - [View Online](https://speakerdeck.com/gopherconrussia/tla-plus-tools-praktichnyi-instrumient-formal-noi-vierifikatsii-alghoritmov-alieksiei-naidionov)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2020/TLA%20Tools%20-%20Alexey%20Naydenov.pdf)
   - [Repository](https://github.com/growler/gophercon-russia-2020-talk)
 
-Андрей Бородин. Жмём и храним байтики.
+Жмём и храним байтики - Андрей Бородин
 
 Designing Pluggable and Idiomatic Go Applications - Mark Bates
   - [View Online](https://speakerdeck.com/gopherconrussia/designing-pluggable-idiomatic-go-applications-mark-bates)
