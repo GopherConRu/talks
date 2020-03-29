@@ -9,6 +9,7 @@ Go's Hidden #pragmas - Dave Cheney
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2020/Go's%20Hidden%20Pragmas%20-%20Dave%20Cheney.pdf)
 
 Infrastructure for Machine Learning Applications - Natalie Pistunovich
+  - TODO
 
 Wrapping C++ Arrow - why and how? - Yoni Davidson
   - [View Online](https://speakerdeck.com/gopherconrussia/wrapping-c-plus-plus-arrow-why-and-how-yoni-davidson)
