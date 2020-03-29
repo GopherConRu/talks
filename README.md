@@ -37,5 +37,5 @@ Designing Pluggable and Idiomatic Go Applications - Mark Bates
 
 ## Previous years
 
-- 2019
-- 2018
+- [2019](https://github.com/GopherConRu/talks/tree/master/2018)
+- [2018](https://github.com/GopherConRu/talks/tree/master/2019)
