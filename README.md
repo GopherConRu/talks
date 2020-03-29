@@ -29,6 +29,8 @@ TLA+/TLC: практичный инструмент формальной вер�
   - [Repository](https://github.com/growler/gophercon-russia-2020-talk)
 
 Жмём и храним байтики - Андрей Бородин
+  - [View Online](https://speakerdeck.com/gopherconrussia/zhmiom-i-khranim-baitiki-andriei-borodin)
+  - [PDF](TODO)
 
 Designing Pluggable and Idiomatic Go Applications - Mark Bates
   - [View Online](https://speakerdeck.com/gopherconrussia/designing-pluggable-idiomatic-go-applications-mark-bates)
