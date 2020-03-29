@@ -4,7 +4,9 @@
 
 ## 2020 Online
 
-Dave Cheney. Go's Hidden Pragmas.
+Dave Cheney. Go's Hidden #pragmas.
+  - [View Online](https://speakerdeck.com/gopherconrussia/gos-hidden-number-pragmas-dave-cheney)
+  - [PDF](https://github.com/GopherConRu/talks/blob/master/2020/Go's%20Hidden%20Pragmas%20-%20Dave%20Cheney.pdf)
 
 Natalie Pistunovich. Infrastructure for Machine Learning Applications.
 
@@ -19,6 +21,8 @@ Ole Bulbuk. Interviewing Go Developers and Getting a Good Go Job.
 Андрей Бородин. Жмём и храним байтики.
 
 Mark Bates. Designing Pluggable and Idiomatic Go Applications.
+  - [View Online](https://speakerdeck.com/gopherconrussia/designing-pluggable-idiomatic-go-applications-mark-bates)
+  - [PDF](TODO)
 
 ## 2018
 
