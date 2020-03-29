@@ -17,10 +17,12 @@ Yoni Davidson. Wrapping C++ Arrow - why and how?
 Артём Картасов. Невидимые ошибки Go-разработчика.
 
 Ole Bulbuk. Interviewing Go Developers and Getting a Good Go Job.
+  - [View Online](https://flowdev.github.io/static/present/2020/go-job/present.html)
+  - [Repository](https://github.com/flowdev/present-go/tree/master/2020/go-job)
 
 Алексей Найдёнов. TLA+/TLC: практичный инструмент формальной верификаций алгоритмов.
-  - [View Online](TODO)
-  - [PDF](TODO)
+  - [View Online](https://speakerdeck.com/gopherconrussia/tla-plus-tools-praktichnyi-instrumient-formal-noi-vierifikatsii-alghoritmov-alieksiei-naidionov)
+  - [PDF](https://github.com/GopherConRu/talks/blob/master/2020/TLA%20Tools%20-%20Alexey%20Naydenov.pdf)
   - [Repository](https://github.com/growler/gophercon-russia-2020-talk)
 
 Андрей Бородин. Жмём и храним байтики.
