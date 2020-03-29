@@ -4,13 +4,15 @@
 
 ## 2020 Online
 
-Dave Cheney. Go's Hidden #pragmas.
+Go's Hidden #pragmas - Dave Cheney
   - [View Online](https://speakerdeck.com/gopherconrussia/gos-hidden-number-pragmas-dave-cheney)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2020/Go's%20Hidden%20Pragmas%20-%20Dave%20Cheney.pdf)
 
 Natalie Pistunovich. Infrastructure for Machine Learning Applications.
 
 Yoni Davidson. Wrapping C++ Arrow - why and how?
+  - [View Online](https://speakerdeck.com/gopherconrussia/wrapping-c-plus-plus-arrow-why-and-how-yoni-davidson)
+  - [PDF](TODO)
 
 Артём Картасов. Невидимые ошибки Go-разработчика.
 
@@ -20,9 +22,9 @@ Ole Bulbuk. Interviewing Go Developers and Getting a Good Go Job.
 
 Андрей Бородин. Жмём и храним байтики.
 
-Mark Bates. Designing Pluggable and Idiomatic Go Applications.
+Designing Pluggable and Idiomatic Go Applications - Mark Bates
   - [View Online](https://speakerdeck.com/gopherconrussia/designing-pluggable-idiomatic-go-applications-mark-bates)
-  - [PDF](TODO)
+  - [PDF](https://github.com/GopherConRu/talks/blob/master/2020/Designing%20Pluggable%20Idiomatic%20Go%20Applications%20-%20Mark%20Bates.pdf)
 
 ## 2018
 
