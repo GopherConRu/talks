@@ -5,11 +5,14 @@
 ## 2020 Online
 
 Go's Hidden #pragmas - Dave Cheney
-  - [View Online](https://speakerdeck.com/gopherconrussia/gos-hidden-number-pragmas-dave-cheney)
+  - [View Online](https://speakerdeck.com/gopherconrussia/gos-hidden-number-pragmas-dave-cheney-934b7f6d-fac0-4f2e-a809-26f939c81795)
+  - [View Online (with speaker notes)](https://speakerdeck.com/gopherconrussia/gos-hidden-number-pragmas-dave-cheney-with-speaker-notes)
   - [PDF](https://github.com/GopherConRu/talks/blob/master/2020/Go's%20Hidden%20Pragmas%20-%20Dave%20Cheney.pdf)
+  - [PDF (with speaker notes)](https://github.com/GopherConRu/talks/blob/master/2020/Go's%20Hidden%20Pragmas%20-%20Dave%20Cheney%20(with%20speaker%20notes).pdf)
 
 Infrastructure for Machine Learning Applications - Natalie Pistunovich
-  - TODO
+  - [View Online](https://speakerdeck.com/gopherconrussia/infrastructure-for-machine-learning-applications-natalie-pistunovich)
+  - [PDF](https://github.com/GopherConRu/talks/blob/master/2020/Infrastructure%20for%20Machine%20Learning%20Applications%20-%20Natalie%20Pistunovich.pdf)
 
 Wrapping C++ Arrow - why and how? - Yoni Davidson
   - [View Online](https://speakerdeck.com/gopherconrussia/wrapping-c-plus-plus-arrow-why-and-how-yoni-davidson)
