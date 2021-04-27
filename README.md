@@ -2,6 +2,44 @@
 
 **Note:** cloning this repository requires [Git LFS](https://git-lfs.github.com).
 
+## 2021 Online
+
+Building an Autoscaling HTTP Proxy for Kubernetes - Aaron Schlesinger
+  - [View Online]()
+  - [PDF]()
+
+Go Profiling from Bottom Up - Felix Geisendörfer
+  - [View Online]()
+  - [PDF]()
+
+Learning Unsung Gotchas of Go - Rashmi Nagpal
+ - [View Online](https://docs.google.com/presentation/d/1jJi5hQ9LXn1U8MBIXfvykhjmCtmgyTDHxmQwzq8XefM/edit?usp=sharing)
+ - [PDF]()
+
+Прозрачный gRPC-proxy один-ко-многим - Андрей Смирнов
+  - [View Online](https://speakerdeck.com/smira/transparent-grpc-gateway-in-go)
+  - [PDF]()
+
+Тестирование в Go c Ginkgo и Gomega - Александр Егурнов
+  - [View Online](https://speakerdeck.com/egurnov/tiestirovaniie-v-go-s-ginkgo-and-gomega)
+  - [PDF]()
+  - [Repository](https://github.com/egurnov/ginkgo-talk-2021-pub)
+
+За пару мгновений до main() - Олег Ковалев
+  - [View Online](https://speakerdeck.com/olegkovalov/za-paru-mghnovienii-do-main)
+  - [PDF]()
+
+Пакет embed: распаковка знаний - Илья Данилкин
+
+
+Из Python в Go и обратно - Андрей Минкин
+- [View Online](https://docs.google.com/presentation/d/15FegvKYIDmQUjvnC74bjmxfSQbtGPdh5BVHJFyUuGeE/edit#slide=id.gcf8181c3f4_1_0)
+- [PDF]()
+
+Оптимизация работы с PostgreSQL в Go: от 50 до 5000 RPS - Иван Осадчий
+  - [View Online](https://docs.google.com/presentation/d/1hnwopHPTve6Hj-i5qy32wYXLDGMLLA8imvNFGeNdQY4/edit?usp=sharing)
+  - [PDF]()
+
 ## 2020 Online
 
 Go's Hidden #pragmas - Dave Cheney
