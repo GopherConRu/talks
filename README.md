@@ -30,7 +30,8 @@ Learning Unsung Gotchas of Go - Rashmi Nagpal
   - [PDF]()
 
 Пакет embed: распаковка знаний - Илья Данилкин
-
+- [View Online](https://docs.google.com/presentation/d/1m9jcEQE9kUzfSbgj7kTPRsFLkaZQwjZ5NasA--ysK8w/edit#slide=id.g9061f411ee_2_1)
+- [PDF]()
 
 Из Python в Go и обратно - Андрей Минкин
 - [View Online](https://docs.google.com/presentation/d/15FegvKYIDmQUjvnC74bjmxfSQbtGPdh5BVHJFyUuGeE/edit#slide=id.gcf8181c3f4_1_0)
