@@ -9,7 +9,7 @@ Building an Autoscaling HTTP Proxy for Kubernetes - Aaron Schlesinger
   - [PDF]()
 
 Go Profiling from Bottom Up - Felix Geisendörfer
-  - [View Online]()
+  - [View Online](https://docs.google.com/presentation/d/1-u0Mk3-j8ST07X4w25jWtdTcsE-ltczGHwxdMz-zBR8/edit#slide=id.p1)
   - [PDF]()
 
 Learning Unsung Gotchas of Go - Rashmi Nagpal
