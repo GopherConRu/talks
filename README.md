@@ -10,7 +10,7 @@ Go Profiling from Bottom Up - Felix Geisendörfer
 - [PDF](https://github.com/GopherConRu/talks/blob/master/2021/Go%20Profiling%20From%20Bottom%20Up%20-%20Felix%20Geisend%C3%B6rfer.pdf)
 
 A tour of xbar code - Mat Ryer
-- TODO
+- [Repository](https://github.com/matryer/xbar)
 
 Learning Unsung Gotchas of Go - Rashmi Nagpal
 - [View Online](https://docs.google.com/presentation/d/1jJi5hQ9LXn1U8MBIXfvykhjmCtmgyTDHxmQwzq8XefM/edit)
