@@ -23,8 +23,9 @@ Learning Unsung Gotchas of Go - Rashmi Nagpal
 - [PDF](https://github.com/GopherConRu/talks/blob/main/2021/Transparent%20one-to-many%20gRPC%20proxy%20-%20Andrey%20Smirnov.pdf)
 
 Building an Autoscaling HTTP Proxy for Kubernetes - Aaron Schlesinger
-- TODO [View Online]()
-- TODO [PDF]()
+- [View Online](https://speakerdeck.com/gopherconrussia/building-an-autoscaling-http-proxy-for-kubernetes-aaron-schlesinger)
+- [PDF](https://github.com/GopherConRu/talks/blob/main/2021/Building%20an%20Autoscaling%20HTTP%20Proxy%20for%20Kubernetes%20-%20Aaron%20Schlesinger.pdf)
+- [Repository](https://github.com/aarons-talks/2021-04-24-GopherCon-Russia)
 
 Из Python в Go и обратно - Андрей Минкин
 - [View Online](https://docs.google.com/presentation/d/15FegvKYIDmQUjvnC74bjmxfSQbtGPdh5BVHJFyUuGeE/edit)
